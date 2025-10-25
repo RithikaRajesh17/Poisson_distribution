@@ -28,7 +28,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 # Program :
-```
+```python
+Developed BY: Rithika R
+Reg.No: 212224240136
 import numpy as np
 import math
 import scipy.stats
@@ -66,8 +68,7 @@ else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
 # Output : 
-![poison distribution](https://github.com/RAGALASAIVIVEK/Poisson_distribution/assets/144979718/1b47d3d9-169d-4ed2-b588-0a98f2309fcf)
-
+<img width="878" height="457" alt="image" src="https://github.com/user-attachments/assets/f05fbb29-ad60-48ac-9b01-8a88f4913aa3" />
 
 # Results
 
