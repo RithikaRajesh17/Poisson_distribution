@@ -5,7 +5,7 @@ To fit poisson distribution for the arrival of objects per minute from the feede
 
 # Software required :  
 
-Python and Visual component tool
+Python and Visual component tool 
 
 # Theory:
 
