@@ -52,7 +52,7 @@ mean=np.inner(X,p)
 p=list();E=list();xi=list()
 print("X P(X=x) Obs.Fr Exp.Fr xi")
 print("--------------------------")
-for x in range(M+1):
+for x in range(M+1): 
     p.append(math.exp(-mean)*mean**x/math.factorial(x))
     E.append(p[x]*sf)
     xi.append((f[x]-E[x])**2/E[x])
